@@ -140,3 +140,5 @@ src/PrecompiledWeb/*
 build.out/
 build.tmp/
 build/Modules/*/temp/
+/src/Umbraco.Web.UI.Client/Web.config
+/src/web.config
